@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-Time Series Analysis of Relationship between inflation rate and unemployment rate  over 5 years and forecast ( Philips Cureve Model).
+Time Series Analysis of relationship between inflation rate and unemployment rate  over 5 years and forecast ( Philips Cureve Model).
 
 ## Table of contents
 * [General info](#general-info)
