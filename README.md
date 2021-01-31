@@ -4,7 +4,6 @@ Time Series Analysis of Relationship between inflation rate and unemployment rat
 ## Table of contents
 * [General info](#general-info)
 * [Packages](#technologies)
-* [Features](#features)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
@@ -13,9 +12,6 @@ Time Series Analysis of Relationship between inflation rate and unemployment rat
  
  ## Result
   I found a huge gap between forecast and real values of last 10 months of 2020. The reason is crisis of pandemic (COVID-19). It is clearly seen from our model that forecasting do not consider crisis in economy. At the final I have tested inflation and unemployed rate with the 'Granger casuality test' if these two variables are dependend on each other. For the high value (0.978) of p-value, we rejected Null hyphothesis.
- 
- 
-
 
 
 ## Packages
@@ -27,9 +23,6 @@ Time Series Analysis of Relationship between inflation rate and unemployment rat
 * statsmodels.api
 * statsmodels.tsa.arima_model
 * seaborn
-
-
-
 
 
 
