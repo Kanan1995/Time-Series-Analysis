@@ -34,7 +34,7 @@ Time Series Analysis of Relationship between inflation rate and unemployment rat
 
 
 ## Inspiration
-Project inspired by effects of crisis on the unemployment and inflation rates.
+Project inspired by the effects of pandemic on the economy.
 
 ## Contact
 Created by [Kanan Gulmammadli](kenan.gulmemmedli@gmail.com) (kenan.gulmemmedli@gmail.com)  - feel free to contact me!
